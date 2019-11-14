@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="btn1">Enter</string>
+    <string name="btn6">Regresar</string>
 </resources>
